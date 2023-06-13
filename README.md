@@ -1,7 +1,6 @@
 # Introduction au Machine Learning
 ### Prédiction/Classification du Cancer des Seins
 
-<img src="icon.png" align="right" />
 
 # Travaux Pratiques
 > Ce projet vise à résoudre un problème concernant une classification des patients ayant le cancer des eins et ceux n'ayant pas le cancer. Un modèle pareil aidera les hôpitaux en terme de decision making sur les nouveaux patients avec les mêmes données cliniques.
