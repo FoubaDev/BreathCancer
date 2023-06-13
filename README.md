@@ -1,5 +1,5 @@
 # Introduction au Machine Learning
-# Prédiction/Classification du Cancer des Seins
+### Prédiction/Classification du Cancer des Seins
 
 <img src="icon.png" align="right" />
 
