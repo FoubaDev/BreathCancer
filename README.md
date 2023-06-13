@@ -11,9 +11,8 @@ ing, etc.
 
 En tant que développeur Data, Data Scientiste, -Analyse et Visualisation des données -Normalisation des données -Créer un modèle permettant de classifier une personne ayant un cancer des seins ou non.
 
-- [ai/size-limit](https://github.com/ai/size-limit#readme) - Project logo, clear description, screenshot, step-by-step installing instructions.
-- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3#readme) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-
+## Critères de performance
+- Le modèle doit être capable de classifier le nouveau patient avec ses données. L'erreur doit être minimale!
 
 ## Tools
 
