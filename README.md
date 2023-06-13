@@ -1,4 +1,5 @@
 # Introduction au Machine Learning
+# Prédiction/Classification du Cancer des Seins
 
 <img src="icon.png" align="right" />
 
@@ -7,7 +8,7 @@
 ing, etc.
 
 ## Contexte du projet:
-__Prédiction/Classification du Cancer des Seins__
+
 
 En tant que développeur Data, Data Scientiste, -Analyse et Visualisation des données -Normalisation des données -Créer un modèle permettant de classifier une personne ayant un cancer des seins ou non.
 
@@ -17,21 +18,9 @@ En tant que développeur Data, Data Scientiste, -Analyse et Visualisation des do
 
 ## Tools
 
-- [Lien de téléchargement de dataset](https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset/) - 
-
-## Get Feedback
-
-- [feedmereadmes](https://github.com/LappleApple/feedmereadmes#readme) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
-- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
+- Cliques sur ce lien pour télécharger le dataset- [Lien de téléchargement de dataset](https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset/) 
 
 ## Contribute
 
 Contributions are always welcome!
 Contributions are welcome. Send us your comments and suggestions.
-
-
-
-## License
-
-
-To the extent possible under law, [Matias Singers](https://mts.io) has waived all copyright and related or neighboring rights to this work.
