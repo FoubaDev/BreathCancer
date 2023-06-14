@@ -1,0 +1,25 @@
+# Import des bibliothèques nécessaires
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import accuracy_score
+
+# Chargement des données
+data = pd.read_csv("donnees_cliniques.csv")
+
+X = data.drop("diagnostic", axis=1)
+y = data["diagnostic"]
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+
+# Création du modèle de régression logistique
+model = LogisticRegression()
+
+# Entraînement du modèle
+model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+
+# Évaluation des performances du modèle
+accuracy = accuracy_score(y_test, y_pred)
+print("Précision du modèle : {:.2f}%".format(accuracy * 100))
