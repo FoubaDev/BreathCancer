@@ -5,10 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score
 
 # Chargement des données
-data = pd.read_csv("donnees_cliniques.csv")
-
-X = data.drop("diagnostic", axis=1)
-y = data["diagnostic"]
+data = pd.read_csv("cancer.csv")
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
