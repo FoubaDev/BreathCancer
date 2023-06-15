@@ -12,6 +12,7 @@ ing, etc.
 En tant que développeur Data, Data Scientiste, -Analyse et Visualisation des données -Normalisation des données -Créer un modèle permettant de classifier une personne ayant un cancer des seins ou non.
 
 ## Définition du cancer de sein
+
 Un cancer du sein résulte d'un dérèglement de certaines cellules qui se multiplient et forment le plus souvent une masse appelée tumeur. Il en existe différents types qui n’évoluent pas de la même manière. Certains sont « agressifs » et évoluent très rapidement, d’autres plus lentement. Les cellules cancéreuses peuvent rester dans le sein.
 
 ## Critères de performance
