@@ -2,25 +2,25 @@
 ### Prédiction/Classification du Cancer des Seins
 
 
-# Travaux Pratiques
-> Ce projet vise à résoudre un problème concernant une classification des patients ayant le cancer des eins et ceux n'ayant pas le cancer. Un modèle pareil aidera les hôpitaux en terme de decision making sur les nouveaux patients avec les mêmes données cliniques.
-ing, etc.
+# Practical work
+> This project aims to solve a problem concerning a classification of patients with cancer of the kidneys and those without cancer. Such a model will help hospitals in terms of decision making on new patients with the same clinical data.
+ing
 
-## Contexte du projet:
+## Context of the project:
 
 
-En tant que développeur Data, Data Scientiste, -Analyse et Visualisation des données -Normalisation des données -Créer un modèle permettant de classifier une personne ayant un cancer des seins ou non.
+As a Data Developer, Data Scientist, -Data Analysis and Visualization -Data Normalization -Create a model to classify a person with breast cancer or not.
 
-## Définition du cancer de sein
+## Definition of breast cancer
 
-Un cancer du sein résulte d'un dérèglement de certaines cellules qui se multiplient et forment le plus souvent une masse appelée tumeur. Il en existe différents types qui n’évoluent pas de la même manière. Certains sont « agressifs » et évoluent très rapidement, d’autres plus lentement. Les cellules cancéreuses peuvent rester dans le sein.
+Breast cancer results from a disruption of certain cells which multiply and most often form a mass called a tumour. There are different types that do not evolve in the same way. Some are “aggressive” and evolve very quickly, others more slowly. Cancer cells can remain in the breast.
 
-## Critères de performance
-- Le modèle doit être capable de classifier le nouveau patient avec ses données. L'erreur doit être minimale!
+## Performance criteria
+-The model must be able to classify the new patient with his data. The error must be minimal!
 
 ## Tools
 
-- Cliques sur ce lien pour télécharger le dataset- [Lien de téléchargement de dataset](https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset/) 
+- Click on this link to download the dataset- [Dataset download link](https://www.kaggle.com/datasets/merishnasuwal/breast-cancer-prediction-dataset/) 
 
 ## Contribute
 
